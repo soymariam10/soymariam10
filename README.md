@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Angelica Morales</h1>
 <h3 align="center">A passionate Frontend and Backend developer <3</h3>
-
+<div align="center">
+    <img src="https://media1.giphy.com/media/aNqEFrYVnsS52/giphy.gif?cid=ecf05e47j2fwkg9dliyneekyfq0chj9zcyua3s4fk8vgeopd&ep=v1_gifs_related&rid=giphy.gif&ct=g"> 
+</div>
 - 🌱 I’m currently learning **c#**
 
 - 📫 How to reach me **angedeveloper@gmail.com**
