@@ -11,9 +11,7 @@
 <p align="left">
 <a href="https://instagram.com/soymariam10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soymariam10" height="30" width="40" /></a>
 </p>
-
 <div>
-  <h3 align="center">Contributions in the last year </h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SicerBrito/SicerBrito/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SicerBrito/SicerBrito/output/github-contribution-grid-snake.svg" />
