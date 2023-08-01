@@ -3,13 +3,11 @@
 <div align="center">
     <img src="https://media1.giphy.com/media/aNqEFrYVnsS52/giphy.gif?cid=ecf05e47j2fwkg9dliyneekyfq0chj9zcyua3s4fk8vgeopd&ep=v1_gifs_related&rid=giphy.gif&ct=g"> 
 </div>
-- 🌱 I’m currently learning **c#**
-
-- 📫 How to reach me **angedeveloper@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/soymariam10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soymariam10" height="30" width="40" /></a>
+    - 🌱 I’m currently learning **c#**
+    
+    - 📫 How to reach me **angedeveloper@gmail.com**
+<p align="center">
+    <a href="https://instagram.com/soymariam10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social    /instagram.svg" alt="soymariam10" height="30" width="40" /></a>
 </p>
 <div>
   <picture>
