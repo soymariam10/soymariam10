@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Angelica Morales</h1>
+<a href="https://www.gifsanimados.org/cat-animales-132.htm"><img src="https://www.gifsanimados.org/data/media/132/animal-imagen-animada-0024.gif" border="0" alt="animal-imagen-animada-0024" /></a>
 <h3 align="center">A passionate Frontend and Backend developer <3</h3>
 <div align="center">
     <img src="https://media1.giphy.com/media/aNqEFrYVnsS52/giphy.gif?cid=ecf05e47j2fwkg9dliyneekyfq0chj9zcyua3s4fk8vgeopd&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="200px"> 
