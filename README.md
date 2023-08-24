@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Angelica Morales</h1>
-<a href="https://www.gifsanimados.org/cat-animales-132.htm"><img src="https://www.gifsanimados.org/data/media/132/animal-imagen-animada-0024.gif" border="0" alt="animal-imagen-animada-0024" align="left" border-radius="10px" width="60" height="70"></a>
 <h3 align="center">A passionate Frontend and Backend developer <3</h3>
 <div align="center">
-    <img src="https://media1.giphy.com/media/aNqEFrYVnsS52/giphy.gif?cid=ecf05e47j2fwkg9dliyneekyfq0chj9zcyua3s4fk8vgeopd&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="200px"> 
+    <img href="https://www.gifsanimados.org/cat-animales-132.htm"><img src="https://www.gifsanimados.org/data/media/132/animal-imagen-animada-0024.gif" border="0" alt="animal-imagen-animada-0024" align="left" border-radius="10px">
+    <img src="https://media1.giphy.com/media/JpLVqOg8xTY3EmoYF7/giphy.gif?cid=ecf05e47rg2npconn919y26h4og26rjnvs85jgdtk4ks7j83&ep=v1_gifs_related&rid=giphy.gif&ct=g" height="200" width="250" alt="Angelica">
 </div>
     - 🌱 I’m currently learning c# <br>
     - 📫 How to reach me angedeveloper@gmail.com
@@ -15,7 +15,6 @@
 </p>
 <div align="left">
     <h3>🔨 Languages and Tools:</h3>
-    <div>
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a> 
       <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"   alt="css3" width="60" height="60"/> </a> 
       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/></a> 
