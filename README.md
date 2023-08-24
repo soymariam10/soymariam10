@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Frontend and Backend developer <3</h3>
 <div align="center">
     <img href="https://www.gifsanimados.org/cat-animales-132.htm"><img src="https://www.gifsanimados.org/data/media/132/animal-imagen-animada-0024.gif" border="0" alt="animal-imagen-animada-0024" align="left" border-radius="10px">
-    <img src="https://media1.giphy.com/media/JpLVqOg8xTY3EmoYF7/giphy.gif?cid=ecf05e47rg2npconn919y26h4og26rjnvs85jgdtk4ks7j83&ep=v1_gifs_related&rid=giphy.gif&ct=g" height="200" width="250" alt="Angelica">
+    <img src="https://media1.giphy.com/media/JpLVqOg8xTY3EmoYF7/giphy.gif?cid=ecf05e47rg2npconn919y26h4og26rjnvs85jgdtk4ks7j83&ep=v1_gifs_related&rid=giphy.gif&ct=g" height="200" width="250">
 </div>
     - 🌱 I’m currently learning c# <br>
     - 📫 How to reach me angedeveloper@gmail.com
