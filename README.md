@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Angelica Morales</h1>
-<h3 align="center">A passionate Frontend and Backend developer <3</h3>
-<div align="center">
-    <img href="https://www.gifsanimados.org/cat-animales-132.htm"><img src="https://www.gifsanimados.org/data/media/132/animal-imagen-animada-0024.gif" border="0" alt="animal-imagen-animada-0024" align="left" border-radius="10px">
-    <img src="https://media1.giphy.com/media/JpLVqOg8xTY3EmoYF7/giphy.gif?cid=ecf05e47rg2npconn919y26h4og26rjnvs85jgdtk4ks7j83&ep=v1_gifs_related&rid=giphy.gif&ct=g" height="200" width="250">
-</div>
+<h3 align="center">A passionate Backend developer <3</h3>
+
     - 🌱 I’m currently learning c# <br>
     - 📫 How to reach me angedeveloper@gmail.com
 <br><br>
@@ -11,7 +8,7 @@
 <p align="center">
     <a href="https://instagram.com/soymariam10" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soymariam10" height="30" width="40" /></a><br>
     
-[![Linkedin: Angelica Morales](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/ang%C3%A9lica-morales-3b9b50277/)
+[![Linkedin: Angelica Morales]([https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/ang%C3%A9lica-morales-3b9b50277/](https://www.linkedin.com/in/ang%C3%A9lica-morales-3b9b50277/))
 </p>
 <div align="left">
     <h3>🔨 Languages and Tools:</h3>
