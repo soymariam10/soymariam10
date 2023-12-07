@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Angelica Morales</h1>
 <h3 align="center">A passionate Backend developer <3</h3>
-    - 🌱 I’m currently learning c# <br>
+    - 🌱 .Net, MYSQL <br>
     - 📫 How to reach me angedeveloper@gmail.com
 <br><br>
     
