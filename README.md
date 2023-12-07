@@ -1,25 +1,51 @@
-<h1 align="center">Hi 👋, I'm Angelica Morales</h1>
-<h3 align="center">A passionate Backend developer <3</h3>
-    - 🌱 .Net, MYSQL <br>
-    - 📫 How to reach me angedeveloper@gmail.com
-<br><br>
-    
-<p align="center">
-    <a href="https://instagram.com/soymariam10" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soymariam10" height="30" width="40" /></a><br>
-    
-[![Linkedin: Angelica Morales]([https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/ang%C3%A9lica-morales-3b9b50277/](https://www.linkedin.com/in/ang%C3%A9lica-morales-3b9b50277/))
-</p>
-<div align="left">
-    <h3>🔨 Languages and Tools:</h3>
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a> 
-      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"   alt="css3" width="60" height="60"/> </a> 
-      <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/></a> 
-      <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> </a>         
-      <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a> 
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a> 
-      <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60"/> </a> 
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> 
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a> 
-      <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="60"/> </a> 
-      <a href="https://dotnet.microsoft.com/es-es/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="csharp" width="60" height="60"/> </a> 
+### Mi nombre es Angelica Morales 👋
+#### Desarrolladora web junior full-stack 💻👩‍🦰
+
+<div align="center">
+  <a href="#"><img src="/Imagenes/to-me.png" border="0" width="200px"></a>
 </div>
+
+#### Actualmente me dedico a:
+
+- Reforzar conocimientos sobre servicios en la nube AWS y nuevas tecnologías ( Python, PhP).
+- Hacer proyectos para reforzar mis conocimientos y habilidades.
+- Afianzar e investigar principios, patrones buenas prácticas y metodologías de desarrollo
+___
+
+
+#### Tengo conocimientos sobre:
+
+##### Programming languages
+
+HTML, CSS, JavaScript, Csharp, SQL, MySql
+
+____
+
+##### FrontEnd Development
+
+HTML, CSS, Bootstrap, JavaScript
+
+____
+
+##### Backend Development
+
+.Net, Csharp
+
+_____
+
+##### Database
+
+MySql, SQL, MongoDB
+
+_____
+
+ ##### Others
+ 
+ Git, Github, Visutal Studio Code
+
+#### ¿Hablamos?☕️
+
+<a href="www.linkedin.com/in/soymariam10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Angelica Morales" height="30" width="40" />linkedin</a>
+
+<a href="mailto:csalvadordiaz689@gmail.com " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Angelica Morales" height="30" width="40" />angedeveloper@gmail.com</a>
+</p>
